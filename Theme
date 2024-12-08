@@ -9,7 +9,7 @@ local ConfigurationExtension = ".rfld"
 local RayfieldLibrary = {
 	Flags = {},
 	Theme = {
-		TVL2 = {
+		Default = {
     TextColor = Color3.fromRGB(240, 240, 240),
 
     Background = Color3.fromRGB(20, 20, 50),
